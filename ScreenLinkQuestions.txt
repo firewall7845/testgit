@@ -1,0 +1,7 @@
+Screen Link Q&A
+1. Field [PRIOR MI] is mandatory but cannot see in new design
+2. [FAMILIAR OR CONGENITAL HEART DISEASE] and [UNDERGONE SURGICAL REPAIR OF CONGENITAL HEART DISEASE] is not affect to result
+3. Provide [Result Screen Content]
+4. Field [SURVIVAL EXPECTATION GREATER THAN 1 YEAR] is not listed in algorithm
+5. All empty field in algorithm is default value on screen or what does it mean? 
+6. Specification of "|" in algorithm
