@@ -5,3 +5,6 @@ Screen Link Q&A
 4. Field [SURVIVAL EXPECTATION GREATER THAN 1 YEAR] is not listed in algorithm
 5. All empty field in algorithm is default value on screen or what does it mean? 
 6. Specification of "|" in algorithm
+
+
+dsss
