@@ -2,3 +2,4 @@
 	+ l?i upload file trong các folder(các file >= 520kb 			upload faile)
 		
 		
+sd
